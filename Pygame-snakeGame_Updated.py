@@ -9,6 +9,7 @@ import pygame, sys, time, random
 # Impossible->  120
 difficulty = 25
 
+
 # Window size
 frame_size_x = 720
 frame_size_y = 480
