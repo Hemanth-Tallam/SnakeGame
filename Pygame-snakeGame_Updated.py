@@ -7,6 +7,7 @@ import pygame, sys, time, random
 # Hard      ->  40
 # Harder    ->  60
 # Impossible->  120
+# check
 difficulty = 25
 
 # Window size
